@@ -1,0 +1,10 @@
+name: "Walrus"
+description: "simple digital signage"
+
+url: "[http://localhost:4000]"
+
+paginate: 6
+
+markdown: rdiscount
+permalink: pretty
+pygments: true

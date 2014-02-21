@@ -1,0 +1,11 @@
+<div class="row">
+  <div class="col-sm-12">Head</div>
+  <div class="col-sm-12">info bar</div>
+  <div class="col-sm-12">main posts</div>
+  <div class="col-sm-12">Footer
+    <div class="row">
+      <div class="col-sm-6">slider</div>
+      <div class="col-sm-6">weather</div>
+    </div>
+  </div>
+</div>
